@@ -20,7 +20,7 @@ class GetStartedButton extends StatelessWidget {
         padding: const EdgeInsets.symmetric(horizontal: 50, vertical: 15),
         shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(16)),
       ),
-      child: Text('Get Started', style: TextStyles.font16whitesemiBold),
+      child: Text('Get Started', style: TextStyles.font16whiteSemiBold),
     );
   }
 }
